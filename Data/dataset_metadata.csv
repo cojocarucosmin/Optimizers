@@ -1,0 +1,27 @@
+column,description,unit,frequency,section
+inbound_pallets,Number of inbound pallets to warehouse per month,pallets,Monthly,Inbound
+inbound_bulk,Number of inbound bulk shipments per month,loads,Monthly,Inbound
+returns,Number of returns received per month,returns,Monthly,Inbound
+outbound_pallets,Number of outbound pallets from warehouse per month,pallets,Monthly,Outbound
+outbound_bulk,Number of outbound bulk shipments per month,loads,Monthly,Outbound
+stock_ambient,Average number of pallets in ambient storage,pallets,Average,Storage
+stock_controlled,Average number of pallets in temperature-controlled storage,pallets,Average,Storage
+stock_bonded,Average number of pallets in bonded warehouse,pallets,Average,Storage
+stock_P100,Average number of pallets in P100 warehouse,pallets,Average,Storage
+temp_controlled,"Requires temperature control? (0=no, 1=yes)",binary,N/A,Storage
+num_sku,Average number of SKUs in storage,SKU,Average,Storage
+num_sku_picking,Average number of SKUs in picking operations,SKU,Average,Storage
+pallet_height,Average pallet height,cm,Average,Storage
+pallet_weight,Average pallet weight,kg,Average,Storage
+num_inbound_orders,Number of inbound orders per month,orders,Monthly,Admin
+sku_per_inbound,Average SKUs per inbound order,SKU,Average,Admin
+pallets_per_inbound,Average pallets per inbound order,pallets,Average,Admin
+num_outbound_orders,Number of outbound orders per month,orders,Monthly,Admin
+sku_per_outbound,Average SKUs per outbound order,SKU,Average,Admin
+pallets_per_truck,Average pallets per outbound truck,pallets,Average,Outbound
+pallets_per_outbound,Average pallets per outbound order,pallets,Average,Outbound
+num_delivery_pts,Number of delivery points per month,points,Monthly,Outbound
+pallets_per_delivery,Average pallets per delivery,pallets,Average,Outbound
+special_frigo,"Needs refrigeration? (0=no, 1=yes)",binary,N/A,Special
+special_ADR,"Needs ADR (hazardous goods)? (0=no, 1=yes)",binary,N/A,Special
+price_total,Total offer price (target variable),EUR,N/A,Target
