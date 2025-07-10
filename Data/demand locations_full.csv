@@ -1,0 +1,16 @@
+name,lat,lon,demand_ton,Type
+"Preciziei 24, Chiajna, Ilfov, Romania",44.4481,25.9696,0,Depot
+"Piata Unirii, Bucharest, Romania",44.4268,26.1025,2,Delivery
+"Bulevardul Iuliu Maniu 220, Bucharest, Romania",44.4352,26.0122,5,Delivery
+"Strada Barbu Vacarescu 201, Bucharest, Romania",44.4781,26.1097,-2,Pickup
+"Strada Drumul Taberei 34, Bucharest, Romania",44.426,25.9987,4,Delivery
+"Soseaua Oltenitei 103, Popesti-Leordeni, Ilfov, Romania",44.3755,26.1457,-1,Pickup
+"Strada 1 Decembrie 1918 12, Pantelimon, Ilfov, Romania",44.4547,26.2032,3,Delivery
+"Strada Erou Iancu Nicolae 67, Voluntari, Ilfov, Romania",44.5076,26.1427,1,Delivery
+"Prelungirea Ghencea 85, Domnesti, Ilfov, Romania",44.3972,25.9692,-0.5,Pickup
+"Bulevardul Timisoara 50, Bucharest, Romania",44.42,26.005,6,Delivery
+"Aleea Petricani 14, Bucharest, Romania",44.49,26.108,-3,Pickup
+"Strada Somesului 22, Bucharest, Romania",44.438,26.065,4.5,Delivery
+"Soseaua Pantelimon 302, Bucharest, Romania",44.442,26.213,-2,Pickup
+"Calea Mosilor 150, Bucharest, Romania",44.43,26.151,2.5,Delivery
+"Bulevardul Lacul Tei 10, Bucharest, Romania",44.459,26.16,5,Delivery
