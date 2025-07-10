@@ -1,0 +1,4 @@
+client_name,inbound_pallets,inbound_bulk,returns,outbound_pallets,outbound_bulk,stock_ambient,stock_controlled,stock_bonded,stock_P100,temp_controlled,num_sku,num_sku_picking,pallet_height,pallet_weight,num_inbound_orders,sku_per_inbound,pallets_per_inbound,num_outbound_orders,sku_per_outbound,pallets_per_truck,pallets_per_outbound,num_delivery_pts,pallets_per_delivery,special_frigo,special_ADR,price_total
+Client Alpha,120,25,3,80,20,250,50,10,5,1,70,40,140,500,15,25,6,18,30,12,8,15,5,1,0,
+Client Beta,60,5,1,35,8,90,0,0,0,0,12,5,120,350,5,8,3,6,7,5,3,4,2,0,0,
+Client Gamma,220,60,10,200,45,420,120,20,10,1,150,80,160,900,30,55,15,35,60,25,18,30,9,1,1,
